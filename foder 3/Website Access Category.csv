@@ -1,0 +1,161 @@
+SaleID,ProductID,ProductName,Category,Price,Quantity,CustomerID,Date,TotalAmount,GroupID,GroupName,MarketTrendID,MarketTrendName,WebsiteAccessCategoryID,WebsiteAccessCategoryName
+1,1,Phone X1,Phones,750.00,2,1,2024-07-01,1500.00,1,Group A,1,Increased Demand,1,Search Engines
+2,2,Computer Y3,Computers,1600.00,1,2,2024-07-02,1600.00,1,Group A,2,New Product Launch,2,Social Media
+3,3,Television Z2,Televisions,1200.00,1,3,2024-07-03,1200.00,2,Group B,3,Seasonal Discount,3,Referral Sites
+4,4,Phone X2,Phones,800.00,3,4,2024-07-04,2400.00,2,Group B,4,Technological Advancement,4,Direct Traffic
+5,5,Computer Y1,Computers,1100.00,1,5,2024-07-05,1100.00,3,Group C,5,Market Saturation,5,Email Marketing
+6,6,Television Z1,Televisions,900.00,2,6,2024-07-06,1800.00,3,Group C,6,Increased Competition,6,Affiliate Marketing
+7,7,Phone X3,Phones,900.00,1,7,2024-07-07,900.00,4,Group D,7,Changing Consumer Preferences,7,Online Ads
+8,8,Computer Y2,Computers,1400.00,1,8,2024-07-08,1400.00,4,Group D,8,Global Economic Trends,8,Video Marketing
+9,9,Television Z3,Televisions,1500.00,3,9,2024-07-09,4500.00,5,Group E,9,Environmental Concerns,9,Content Marketing
+10,10,Phone X4,Phones,1000.00,2,10,2024-07-10,2000.00,5,Group E,10,Regulatory Changes,10,Mobile Marketing
+11,11,Computer Y3,Computers,1600.00,1,11,2024-07-11,1600.00,6,Group F,11,Supply Chain Disruptions,11,Influencer Marketing
+12,12,Television Z1,Televisions,900.00,2,12,2024-07-12,1800.00,6,Group F,12,Technological Innovation,12,Display Advertising
+13,13,Phone X1,Phones,750.00,1,13,2024-07-13,750.00,7,Group G,13,Online Shopping Growth,13,Social Media
+14,14,Computer Y2,Computers,1400.00,2,14,2024-07-14,2800.00,7,Group G,14,Social Media Influence,14,Search Engines
+15,15,Television Z2,Televisions,1200.00,1,15,2024-07-15,1200.00,8,Group H,15,Health and Wellness Trends,15,Referral Sites
+16,16,Phone X2,Phones,800.00,3,16,2024-07-16,2400.00,8,Group H,16,Remote Work Culture,16,Direct Traffic
+17,17,Computer Y1,Computers,1100.00,1,17,2024-07-17,1100.00,9,Group I,17,Smart Home Integration,17,Email Marketing
+18,18,Television Z3,Televisions,1500.00,2,18,2024-07-18,3000.00,9,Group I,18,Artificial Intelligence,18,Affiliate Marketing
+19,19,Phone X3,Phones,900.00,1,19,2024-07-19,900.00,10,Group J,19,Digital Transformation,19,Online Ads
+20,20,Computer Y4,Computers,1800.00,2,20,2024-07-20,3600.00,10,Group J,20,E-commerce Expansion,20,Video Marketing
+21,21,Television Z1,Televisions,900.00,1,21,2024-07-21,900.00,11,Group K,21,Privacy and Security Concerns,21,Content Marketing
+22,22,Phone X4,Phones,1000.00,2,22,2024-07-22,2000.00,11,Group K,22,Consumer Data Protection,22,Mobile Marketing
+23,23,Computer Y3,Computers,1600.00,1,23,2024-07-23,1600.00,12,Group L,23,Augmented Reality,23,Influencer Marketing
+24,24,Television Z2,Televisions,1200.00,2,24,2024-07-24,2400.00,12,Group L,24,Virtual Reality,24,Display Advertising
+25,25,Phone X1,Phones,750.00,1,25,2024-07-25,750.00,13,Group M,25,Blockchain Technology,25,Social Media
+26,26,Computer Y2,Computers,1400.00,2,26,2024-07-26,2800.00,13,Group M,26,Internet of Things (IoT),26,Search Engines
+27,27,Television Z3,Televisions,1500.00,1,27,2024-07-27,1500.00,14,Group N,27,5G Technology Rollout,27,Referral Sites
+28,28,Phone X2,Phones,800.00,3,28,2024-07-28,2400.00,14,Group N,28,Mobile Payment Growth,28,Direct Traffic
+29,29,Computer Y1,Computers,1100.00,1,29,2024-07-29,1100.00,15,Group O,29,Big Data Analytics,29,Email Marketing
+30,30,Television Z1,Televisions,900.00,2,30,2024-07-30,1800.00,15,Group O,30,Cloud Computing Adoption,30,Affiliate Marketing
+31,31,Phone X3,Phones,900.00,1,31,2024-07-31,900.00,16,Group P,31,Machine Learning Applications,31,Online Ads
+32,32,Computer Y4,Computers,1800.00,2,32,2024-08-01,3600.00,16,Group P,32,Robotics and Automation,32,Video Marketing
+33,33,Television Z2,Televisions,1200.00,1,33,2024-08-02,1200.00,17,Group Q,33,Green Technology Initiatives,33,Content Marketing
+34,34,Phone X4,Phones,1000.00,2,34,2024-08-03,2000.00,17,Group Q,34,Renewable Energy Expansion,34,Mobile Marketing
+35,35,Computer Y3,Computers,1600.00,1,35,2024-08-04,1600.00,18,Group R,35,Electric Vehicles (EVs),35,Influencer Marketing
+36,36,Television Z1,Televisions,900.00,2,36,2024-08-05,1800.00,18,Group R,36,Sustainable Manufacturing,36,Display Advertising
+37,37,Phone X1,Phones,750.00,1,37,2024-08-06,750.00,19,Group S,37,Circular Economy Practices,37,Social Media
+38,38,Computer Y2,Computers,1400.00,2,38,2024-08-07,2800.00,19,Group S,38,Supply Chain Transparency,38,Search Engines
+39,39,Television Z3,Televisions,1500.00,1,39,2024-08-08,1500.00,20,Group T,39,Corporate Social Responsibility (CSR),39,Referral Sites
+40,40,Phone X2,Phones,800.00,3,40,2024-08-09,2400.00,20,Group T,40,Consumer Behavior Shifts,40,Direct Traffic
+41,41,Computer Y1,Computers,1100.00,1,41,2024-08-10,1100.00,21,Group U,41,Remote Learning Trends,41,Email Marketing
+42,42,Television Z1,Televisions,900.00,2,42,2024-08-11,1800.00,21,Group U,42,Virtual Events and Conferences,42,Affiliate Marketing
+43,43,Phone X3,Phones,900.00,1,43,2024-08-12,900.00,22,Group V,43,Telemedicine Adoption,43,Online Ads
+44,44,Computer Y4,Computers,1800.00,2,44,2024-08-13,3600.00,22,Group V,44,Healthcare Technology Innovations,44,Video Marketing
+45,45,Television Z2,Televisions,1200.00,1,45,2024-08-14,1200.00,23,Group W,45,Fitness and Wellness Tech,45,Content Marketing
+46,46,Phone X4,Phones,1000.00,2,46,2024-08-15,2000.00,23,Group W,46,Smart Cities Initiatives,46,Mobile Marketing
+47,47,Computer Y3,Computers,1600.00,1,47,2024-08-16,1600.00,24,Group X,47,Digital Nomad Lifestyle,47,Influencer Marketing
+48,48,Television Z1,Televisions,900.00,2,48,2024-08-17,1800.00,24,Group X,48,Smart Home Devices,48,Display Advertising
+49,49,Phone X1,Phones,750.00,1,49,2024-08-18,750.00,25,Group Y,49,Online Gaming Trends,49,Social Media
+50,50,Computer Y2,Computers,1400.00,2,50,2024-08-19,2800.00,25,Group Y,50,Virtual Reality Gaming,50,Search Engines
+51,51,Television Z3,Televisions,1500.00,1,51,2024-08-20,1500.00,26,Group Z,51,Streaming Services,51,Referral Sites
+52,52,Phone X2,Phones,800.00,3,52,2024-08-21,2400.00,26,Group Z,52,Online Video Consumption,52,Direct Traffic
+53,53,Computer Y1,Computers,1100.00,1,53,2024-08-22,1100.00,27,Group AA,53,Online Education Platforms,53,Email Marketing
+54,54,Television Z1,Televisions,900.00,2,54,2024-08-23,1800.00,27,Group AA,54,Virtual Reality Experiences,54,Affiliate Marketing
+55,55,Phone X3,Phones,900.00,1,55,2024-08-24,900.00,28,Group BB,55,Remote Work Tools,55,Online Ads
+56,56,Computer Y4,Computers,1800.00,2,56,2024-08-25,3600.00,28,Group BB,56,Home Fitness Equipment,56,Video Marketing
+57,57,Television Z2,Televisions,1200.00,1,57,2024-08-26,1200.00,29,Group CC,57,Smart Home Automation,57,Content Marketing
+58,58,Phone X4,Phones,1000.00,2,58,2024-08-27,2000.00,29,Group CC,58,Home Security Systems,58,Mobile Marketing
+59,59,Computer Y3,Computers,1600.00,1,59,2024-08-28,1600.00,30,Group DD,59,Virtual Reality Learning,59,Influencer Marketing
+60,60,Television Z1,Televisions,900.00,2,60,2024-08-29,1800.00,30,Group DD,60,Digital Fitness Classes,60,Display Advertising
+61,61,Phone X1,Phones,750.00,1,61,2024-08-30,750.00,31,Group EE,61,Online Cooking Courses,61,Social Media
+62,62,Computer Y2,Computers,1400.00,2,62,2024-08-31,2800.00,31,Group EE,62,Virtual Travel Experiences,62,Search Engines
+63,63,Television Z3,Televisions,1500.00,1,63,2024-09-01,1500.00,32,Group FF,63,Remote Healthcare Services,63,Referral Sites
+64,64,Phone X2,Phones,800.00,3,64,2024-09-02,2400.00,32,Group FF,64,Online Therapy Sessions,64,Direct Traffic
+65,65,Computer Y1,Computers,1100.00,1,65,2024-09-03,1100.00,33,Group GG,65,Virtual Reality Therapy,65,Email Marketing
+66,66,Television Z1,Televisions,900.00,2,66,2024-09-04,1800.00,33,Group GG,66,Telehealth Platforms,66,Affiliate Marketing
+67,67,Phone X3,Phones,900.00,1,67,2024-09-05,900.00,34,Group HH,67,Online Mental Health Resources,67,Online Ads
+68,68,Computer Y4,Computers,1800.00,2,68,2024-09-06,3600.00,34,Group HH,68,Virtual Fitness Classes,68,Video Marketing
+69,69,Television Z2,Televisions,1200.00,1,69,2024-09-07,1200.00,35,Group II,69,Home Office Furniture,69,Content Marketing
+70,70,Phone X4,Phones,1000.00,2,70,2024-09-08,2000.00,35,Group II,70,Desk Accessories,70,Mobile Marketing
+71,71,Computer Y3,Computers,1600.00,1,71,2024-09-09,1600.00,36,Group JJ,71,Office Chairs,71,Influencer Marketing
+72,72,Television Z1,Televisions,900.00,2,72,2024-09-10,1800.00,36,Group JJ,72,Home Decor,72,Display Advertising
+73,73,Phone X1,Phones,750.00,1,73,2024-09-11,750.00,37,Group KK,73,Smart Appliances,73,Social Media
+74,74,Computer Y2,Computers,1400.00,2,74,2024-09-12,2800.00,37,Group KK,74,Kitchen Gadgets,74,Search Engines
+75,75,Television Z3,Televisions,1500.00,1,75,2024-09-13,1500.00,38,Group LL,75,Outdoor Living Products,75,Referral Sites
+76,76,Phone X2,Phones,800.00,3,76,2024-09-14,2400.00,38,Group LL,76,Gardening Supplies,76,Direct Traffic
+77,77,Computer Y1,Computers,1100.00,1,77,2024-09-15,1100.00,39,Group MM,77,Pet Supplies,77,Email Marketing
+78,78,Television Z1,Televisions,900.00,2,78,2024-09-16,1800.00,39,Group MM,78,Pet Food,78,Affiliate Marketing
+79,79,Phone X3,Phones,900.00,1,79,2024-09-17,900.00,40,Group NN,79,Outdoor Gear,79,Online Ads
+80,80,Computer Y4,Computers,1800.00,2,80,2024-09-18,3600.00,40,Group NN,80,Camping Equipment,80,Video Marketing
+81,81,Television Z2,Televisions,1200.00,1,81,2024-09-19,1200.00,41,Group OO,81,Hiking Gear,81,Content Marketing
+82,82,Phone X4,Phones,1000.00,2,82,2024-09-20,2000.00,41,Group OO,82,Backpacks,82,Mobile Marketing
+83,83,Computer Y3,Computers,1600.00,1,83,2024-09-21,1600.00,42,Group PP,83,Travel Accessories,83,Influencer Marketing
+84,84,Television Z1,Televisions,900.00,2,84,2024-09-22,1800.00,42,Group PP,84,Luggage,84,Display Advertising
+85,85,Phone X1,Phones,750.00,1,85,2024-09-23,750.00,43,Group QQ,85,Beauty Products,85,Social Media
+86,86,Computer Y2,Computers,1400.00,2,86,2024-09-24,2800.00,43,Group QQ,86,Skincare,86,Search Engines
+87,87,Television Z3,Televisions,1500.00,1,87,2024-09-25,1500.00,44,Group RR,87,Makeup,87,Referral Sites
+88,88,Phone X2,Phones,800.00,3,88,2024-09-26,2400.00,44,Group RR,88,Haircare,88,Direct Traffic
+89,89,Computer Y1,Computers,1100.00,1,89,2024-09-27,1100.00,45,Group SS,89,Personal Care,89,Email Marketing
+90,90,Television Z1,Televisions,900.00,2,90,2024-09-28,1800.00,45,Group SS,90,Fragrances,90,Affiliate Marketing
+91,91,Phone X3,Phones,900.00,1,91,2024-09-29,900.00,46,Group TT,91,Health Supplements,91,Online Ads
+92,92,Computer Y4,Computers,1800.00,2,92,2024-09-30,3600.00,46,Group TT,92,Wellness Products,92,Video Marketing
+93,93,Television Z2,Televisions,1200.00,1,93,2024-10-01,1200.00,47,Group UU,93,Vitamins and Minerals,93,Content Marketing
+94,94,Phone X4,Phones,1000.00,2,94,2024-10-02,2000.00,47,Group UU,94,Organic Foods,94,Mobile Marketing
+95,95,Computer Y3,Computers,1600.00,1,95,2024-10-03,1600.00,48,Group VV,95,Healthy Snacks,95,Influencer Marketing
+96,96,Television Z1,Televisions,900.00,2,96,2024-10-04,1800.00,48,Group VV,96,Dietary Supplements,96,Display Advertising
+97,97,Phone X1,Phones,750.00,1,97,2024-10-05,750.00,49,Group WW,97,Organic Beauty Products,97,Social Media
+98,98,Computer Y2,Computers,1400.00,2,98,2024-10-06,2800.00,49,Group WW,98,Plant-Based Skincare,98,Search Engines
+99,99,Television Z3,Televisions,1500.00,1,99,2024-10-07,1500.00,50,Group XX,99,Homeopathic Remedies,99,Referral Sites
+100,100,Phone X2,Phones,800.00,3,100,2024-10-08,2400.00,50,Group XX,100,Herbal Teas,100,Direct Traffic
+101,101,Computer Y1,Computers,1100.00,1,101,2024-10-09,1100.00,51,Group YY,101,Aromatherapy,101,Email Marketing
+102,102,Television Z1,Televisions,900.00,2,102,2024-10-10,1800.00,51,Group YY,102,Essential Oils,102,Affiliate Marketing
+103,103,Phone X3,Phones,900.00,1,103,2024-10-11,900.00,52,Group ZZ,103,Home Decor,103,Online Ads
+104,104,Computer Y4,Computers,1800.00,2,104,2024-10-12,3600.00,52,Group ZZ,104,Interior Design,104,Video Marketing
+105,105,Television Z2,Televisions,1200.00,1,105,2024-10-13,1200.00,53,Group AAA,105,Furniture,105,Content Marketing
+106,106,Phone X4,Phones,1000.00,2,106,2024-10-14,2000.00,53,Group AAA,106,Lighting,106,Mobile Marketing
+107,107,Computer Y3,Computers,1600.00,1,107,2024-10-15,1600.00,54,Group BBB,107,Rugs and Carpets,107,Influencer Marketing
+108,108,Television Z1,Televisions,900.00,2,108,2024-10-16,1800.00,54,Group BBB,108,Window Treatments,108,Display Advertising
+109,109,Phone X1,Phones,750.00,1,109,2024-10-17,750.00,55,Group CCC,109,Wall Art,109,Social Media
+110,110,Computer Y2,Computers,1400.00,2,110,2024-10-18,2800.00,55,Group CCC,110,Outdoor Decor,110,Search Engines
+111,111,Television Z3,Televisions,1500.00,1,111,2024-10-19,1500.00,56,Group DDD,111,Home Improvement,111,Referral Sites
+112,112,Phone X2,Phones,800.00,3,112,2024-10-20,2400.00,56,Group DDD,112,DIY Projects,112,Direct Traffic
+113,113,Computer Y1,Computers,1100.00,1,113,2024-10-21,1100.00,57,Group EEE,113,Home Renovation,113,Email Marketing
+114,114,Television Z1,Televisions,900.00,2,114,2024-10-22,1800.00,57,Group EEE,114,Gardening,114,Affiliate Marketing
+115,115,Phone X3,Phones,900.00,1,115,2024-10-23,900.00,58,Group FFF,115,DIY Tools,115,Online Ads
+116,116,Computer Y4,Computers,1800.00,2,116,2024-10-24,3600.00,58,Group FFF,116,Power Tools,116,Video Marketing
+117,117,Television Z2,Televisions,1200.00,1,117,2024-10-25,1200.00,59,Group GGG,117,Hand Tools,117,Content Marketing
+118,118,Phone X4,Phones,1000.00,2,118,2024-10-26,2000.00,59,Group GGG,118,Tool Storage,118,Mobile Marketing
+119,119,Computer Y3,Computers,1600.00,1,119,2024-10-27,1600.00,60,Group HHH,119,Garage Organization,119,Influencer Marketing
+120,120,Television Z1,Televisions,900.00,2,120,2024-10-28,1800.00,60,Group HHH,120,Workshop Equipment,120,Display Advertising
+121,121,Phone X1,Phones,750.00,1,121,2024-10-29,750.00,61,Group III,121,Home Office Supplies,121,Social Media
+122,122,Computer Y2,Computers,1400.00,2,122,2024-10-30,2800.00,61,Group III,122,Stationery,122,Search Engines
+123,123,Television Z3,Televisions,1500.00,1,123,2024-10-31,1500.00,62,Group JJJ,123,Printer Paper,123,Referral Sites
+124,124,Phone X2,Phones,800.00,3,124,2024-11-01,2400.00,62,Group JJJ,124,Ink and Toner,124,Direct Traffic
+125,125,Computer Y1,Computers,1100.00,1,125,2024-11-02,1100.00,63,Group KKK,125,Office Furniture,125,Email Marketing
+126,126,Television Z1,Televisions,900.00,2,126,2024-11-03,1800.00,63,Group KKK,126,Office Supplies,126,Affiliate Marketing
+127,127,Phone X3,Phones,900.00,1,127,2024-11-04,900.00,64,Group LLL,127,Art Supplies,127,Online Ads
+128,128,Computer Y4,Computers,1800.00,2,128,2024-11-05,3600.00,64,Group LLL,128,Craft Supplies,128,Video Marketing
+129,129,Television Z2,Televisions,1200.00,1,129,2024-11-06,1200.00,65,Group MMM,129,Scrapbooking Supplies,129,Content Marketing
+130,130,Phone X4,Phones,1000.00,2,130,2024-11-07,2000.00,65,Group MMM,130,Sewing Supplies,130,Mobile Marketing
+131,131,Computer Y3,Computers,1600.00,1,131,2024-11-08,1600.00,66,Group NNN,131,Party Supplies,131,Influencer Marketing
+132,132,Television Z1,Televisions,900.00,2,132,2024-11-09,1800.00,66,Group NNN,132,Baking Supplies,132,Display Advertising
+133,133,Phone X1,Phones,750.00,1,133,2024-11-10,750.00,67,Group OOO,133,Cooking Utensils,133,Social Media
+134,134,Computer Y2,Computers,1400.00,2,134,2024-11-11,2800.00,67,Group OOO,134,Kitchen Appliances,134,Search Engines
+135,135,Television Z3,Televisions,1500.00,1,135,2024-11-12,1500.00,68,Group PPP,135,Bedding,135,Referral Sites
+136,136,Phone X2,Phones,800.00,3,136,2024-11-13,2400.00,68,Group PPP,136,Bath Linens,136,Direct Traffic
+137,137,Computer Y1,Computers,1100.00,1,137,2024-11-14,1100.00,69,Group QQQ,137,Bathroom Accessories,137,Email Marketing
+138,138,Television Z1,Televisions,900.00,2,138,2024-11-15,1800.00,69,Group QQQ,138,Home Organization,138,Affiliate Marketing
+139,139,Phone X3,Phones,900.00,1,139,2024-11-16,900.00,70,Group RRR,139,Closet Storage,139,Online Ads
+140,140,Computer Y4,Computers,1800.00,2,140,2024-11-17,3600.00,70,Group RRR,140,Shoe Storage,140,Video Marketing
+141,141,Television Z2,Televisions,1200.00,1,141,2024-11-18,1200.00,71,Group SSS,141,Garage Storage,141,Content Marketing
+142,142,Phone X4,Phones,1000.00,2,142,2024-11-19,2000.00,71,Group SSS,142,Laundry Organization,142,Mobile Marketing
+143,143,Computer Y3,Computers,1600.00,1,143,2024-11-20,1600.00,72,Group TTT,143,Home Cleaning Supplies,143,Influencer Marketing
+144,144,Television Z1,Televisions,900.00,2,144,2024-11-21,1800.00,72,Group TTT,144,Trash Cans,144,Display Advertising
+145,145,Phone X1,Phones,750.00,1,145,2024-11-22,750.00,73,Group UUU,145,Green Cleaning Products,145,Social Media
+146,146,Computer Y2,Computers,1400.00,2,146,2024-11-23,2800.00,73,Group UUU,146,Reusable Cleaning Cloths,146,Search Engines
+147,147,Television Z3,Televisions,1500.00,1,147,2024-11-24,1500.00,74,Group VVV,147,Vacuum Cleaners,147,Referral Sites
+148,148,Phone X2,Phones,800.00,3,148,2024-11-25,2400.00,74,Group VVV,148,Floor Cleaners,148,Direct Traffic
+149,149,Computer Y1,Computers,1100.00,1,149,2024-11-26,1100.00,75,Group WWW,149,Window Cleaners,149,Email Marketing
+150,150,Television Z1,Televisions,900.00,2,150,2024-11-27,1800.00,75,Group WWW,150,Bathroom Cleaners,150,Affiliate Marketing
+151,151,Phone X3,Phones,900.00,1,151,2024-11-28,900.00,76,Group XXX,151,Kitchen Cleaners,151,Online Ads
+152,152,Computer Y4,Computers,1800.00,2,152,2024-11-29,3600.00,76,Group XXX,152,All-Purpose Cleaners,152,Video Marketing
+153,153,Television Z2,Televisions,1200.00,1,153,2024-11-30,1200.00,77,Group YYY,153,Disinfecting Wipes,153,Content Marketing
+154,154,Phone X4,Phones,1000.00,2,154,2024-12-01,2000.00,77,Group YYY,154,Hand Sanitizers,154,Mobile Marketing
+155,155,Computer Y3,Computers,1600.00,1,155,2024-12-02,1600.00,78,Group ZZZ,155,Medical Masks,155,Influencer Marketing
+156,156,Television Z1,Televisions,900.00,2,156,2024-12-03,1800.00,78,Group ZZZ,156,Disinfectant Sprays,156,Display Advertising
+157,157,Phone X1,Phones,750.00,1,157,2024-12-04,750.00,79,Group AAAA,157,First Aid Kits,157,Social Media
+158,158,Computer Y2,Computers,1400.00,2,158,2024-12-05,2800.00,79,Group AAAA,158,Home Health Care,158,Search Engines
+159,159,Television Z3,Televisions,1500.00,1,159,2024-12-06,1500.00,80,Group BBBB,159,Wellness Supplements,159,Referral Sites
+160,160,Phone X2,Phones,800.00,3,160,2024-12-07,2400.00,80,Group BBBB,160,Personal Protective Equipment,160,Direct Traffic
